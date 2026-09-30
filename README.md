@@ -1,7 +1,9 @@
 # Ivan Bishop
 
 \- Video game development
+
 \- Art
+
 \- Accessibility research
 
 
